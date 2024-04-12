@@ -1,3 +1,7 @@
+wallet.json
+ipc-timeseries.json
+# when using PyCharm
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

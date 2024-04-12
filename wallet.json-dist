@@ -1,0 +1,31 @@
+{
+    "revision": 1,
+    "assets": [
+        {
+            "commodity": "gold",
+            "volume": 3,
+            "vol_info": "grams",
+            "snap_valuation": 25,
+            "year": 2024,
+            "month": 4
+        },
+        {
+            "commodity": "cash",
+            "volume": 12115.36,
+            "vol_info": "volatile_euros",
+            "snap_valuation": 12115.36,
+            "year": 2024,
+            "month": 4
+        }
+    ],
+    "commodities": [
+        {
+            "name": "cash",
+            "positions": 1
+        },
+        {
+            "name": "gold",
+            "positions": 1
+        }
+    ]
+}
