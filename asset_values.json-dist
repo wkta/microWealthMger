@@ -1,0 +1,30 @@
+{
+    "2022w48": {
+        "gold": {"valuation": 48, "used_vol_unit": "grams"},
+        "cash": {"valuation": 1, "used_vol_unit": "euros"},
+        "cryptoETF": {"valuation": 50, "used_vol_unit": "account unit"}
+    },
+    "2023w05": {
+        "gold": {"valuation": 49, "used_vol_unit": "grams"},
+        "cash": {"valuation": 1, "used_vol_unit": "euros"},
+        "cryptoETF": {"valuation": 52, "used_vol_unit": "account unit"}
+    },
+
+    "2023w17": {
+        "gold": {"valuation": 51, "used_vol_unit": "grams"},
+        "cash": {"valuation": 1, "used_vol_unit": "euros"},
+        "cryptoETF": {"valuation": 55, "used_vol_unit": "account unit"}
+    },
+
+    "2024w16": {
+        "gold": {"valuation": 50, "used_vol_unit": "grams"},
+        "cash": {"valuation": 1, "used_vol_unit": "euros"},
+        "cryptoETF": {"valuation": 54, "used_vol_unit": "account unit"}
+    },
+
+    "2024w18": {
+        "gold": {"valuation": 44, "used_vol_unit": "grams"},
+        "cash": {"valuation": 1, "used_vol_unit": "euros"},
+        "cryptoETF": {"valuation": 82, "used_vol_unit": "account unit"}
+    }
+}

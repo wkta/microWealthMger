@@ -1,0 +1,44 @@
+{
+    "revision": 5,
+    "last_change": "2024-05-20 14:45:10",
+    "assets": [
+        {
+            "id": 1,
+            "commodity": "gold",
+            "volume": 20,
+            "vol_info": "grams",
+            "enter_date_info": "2023w17"
+        },
+        {
+            "id": 2,
+            "commodity": "cash",
+            "volume": 15000,
+            "vol_info": "euros",
+            "enter_date_info": "2023w05"
+        },
+        {
+            "id": 3,
+            "commodity": "cryptoETF",
+            "volume": 35,
+            "vol_info": "account unit",
+            "enter_date_info": "2022w48"
+        }
+    ],
+    "commodities_stats": [
+        {
+            "name": "cash",
+            "positions": 1,
+            "total_volume": 15000
+        },
+        {
+            "name": "gold",
+            "positions": 1,
+            "total_volume": 20
+        },
+        {
+            "name": "cryptoETF",
+            "positions": 1,
+            "total_volume": 35
+        }
+    ]
+}
